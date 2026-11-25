@@ -15,6 +15,8 @@ An isolated cybersecurity lab built with **pfSense** and **VirtualBox**, featuri
 
 ## Lab environment
 
+![Cyber Range Lab Network Flow](Screenshots/cyber_range_lab_network_flow.png)
+
 | Component | Role |
 |---|---|
 | Kali Linux (host) | Attacker workstation and VirtualBox host |
@@ -45,6 +47,7 @@ Cyber-Range/
 │   ├── metasploitable-3.md
 │   └── owasp-juice-shop.md
 └── Screenshots/
+    ├── cyber_range_lab_network_flow.png
     └── juice-shop/
         ├── 01-ubuntu-server-installation.png
         ├── 02-ssh-login-ub-web.png
