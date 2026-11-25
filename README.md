@@ -72,3 +72,6 @@ OWASP Juice Shop is deployed here as a vulnerable web application target. The sa
 3. Avoid unrestricted outbound internet access from vulnerable targets.
 4. Take VirtualBox snapshots before and after major changes.
 5. Never store real credentials or data on target machines.
+
+The [MIT License](LICENSE) applies to this repository. Product names and downloads
+remain subject to their respective owners' terms.
