@@ -13,6 +13,8 @@
 
 ## Logical diagram
 
+![Cyber Range Lab Network Flow](../Screenshots/cyber_range_lab_network_flow.png)
+
 ```
                     Kali Linux (VirtualBox host)
                       192.168.56.1 (HOST_MGMT)
